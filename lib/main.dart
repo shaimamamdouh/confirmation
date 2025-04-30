@@ -50,7 +50,7 @@ class OrderConfirmationWidget extends StatelessWidget {
             SizedBox(height: screenSize.height * 0.03),
             ElevatedButton(
               onPressed: () {
-                // هنا ممكن تضيفي أي أكشن لما الزر يتضغط
+               
               },
               style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.grey[800], // لون الزر
